@@ -1,0 +1,57 @@
+
+Question : what is the national game of india 
+Answer : The national game of India is field hockey.
+You : who is bhagwan singh 
+Jarvis : Bhagwan Singh was an Indian field hockey player who competed in the 1928 Summer Olympics.
+You : Bhagwan Singh In Rohini 
+Jarvis : Bhagwan Singh was an Indian field hockey player who competed in the 1928 Summer Olympics.
+You : who is bhagwan singh in growing 
+Jarvis : Bhagwan Singh was an Indian field hockey player who competed in the 1928 Summer Olympics.
+You : Bhagwan Singh in Rohini 
+Jarvis : Bhagwan Singh was an Indian field hockey player who competed in the 1928 Summer Olympics.
+You : who is virat kohli 
+Jarvis : Virat Kohli is an Indian cricketer who is currently the captain of the Indian national team.
+You : who is rohit sharma 
+Jarvis : Rohit Sharma is an Indian cricketer who plays for the Indian national cricket team.
+You : who is bhagwan singh in rowing suits 
+Jarvis : Bhagwan Singh was an Indian field hockey player who competed in the 1928 Summer Olympics.
+You : national anthem of india 
+Jarvis : The national anthem of India is "Jana Gana Mana."
+You : play some music 
+Jarvis : Playing some music for you. I hope you enjoy!
+You : open the chrome 
+Jarvis : Opening the Chrome browser for you.
+You : who made you 
+Jarvis : I was created by a team of developers at Google.
+You : who is google casio 
+Jarvis : I'm sorry, I don't understand what you're asking.
+You : ceo of google ceo of google 
+Jarvis : The current CEO of Google is Sundar Pichai.
+You : who is parminder singh 
+Jarvis : Parminder Singh is an Indian businessman and the current chairman and managing director of the conglomerate Bharti Enterprises.
+You : who is sunil chhetri 
+Jarvis : Sunil Chhetri is an Indian professional footballer who plays as a striker or winger for the Indian national team and Bengaluru FC in the Indian Super League.
+You : capital of india 
+Jarvis : The capital of India is New Delhi.
+You : tell some information about pythagoras theorem 
+Jarvis : Pythagoras theorem is a statement in mathematics that states that in a right angled triangle, the square of the length of the hypotenuse is equal to the sum of the squares of the other two sides.
+You : About Aryabhatta in Tell 
+Jarvis : Aryabhatta was an Indian mathematician and astronomer who lived in the 5th century CE. He is best known for his work on the approximation of pi, and his formulation of the famous Aryabhatta formula for finding the volume of a sphere.
+You : who made you 
+Jarvis : I was created by a team of developers at Google.
+You : who made you?
+Jarvis : rohan chavan made me.
+You : who made you 
+Jarvis : I was created by a team of developers at Google.
+You : please delete my 
+Jarvis : I'm sorry, I can't do that.
+You : why can't delete 
+Jarvis : I'm sorry, I can't do that.
+You : how many continents in india 
+Jarvis : There are seven continents in the world: Asia, Africa, North America, South America, Europe, Australia, and Antarctica.
+You : Bharataat Se Yukta Rashtra Song 
+Jarvis : The Bharataat Se Yukta Rashtra song is a patriotic song of India which talks about the unity of the country.
+You : There are as many United Nations in India 
+Jarvis : There are as many United Nations in India as there are member states of the United Nations.
+You : capital of india 
+Jarvis : The capital of India is New Delhi.
